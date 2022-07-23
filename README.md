@@ -52,7 +52,7 @@
 <!-- Cards -->
 <h2 align="left" style="border-bottom:1px solid; padding-bottom:10px;"> - Stats: </h2>
 
-<div style="display:flex; justify-content: space-around; align-items:center;">
+<div style="display:flex; justify-content: space-around; align-items:center; align-content:center; flex-direction: column;">
 
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=jesusgjara&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide=issues" alt="jesusgjara" />
