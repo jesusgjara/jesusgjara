@@ -9,9 +9,9 @@
 
 <!-- github-streak -->
 
-<div align="center">
+<!--<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesusgjara&hide_border=true&theme=tokyonight_duo" alt="jesusgjara" /></p>
-</div>
+</div>-->
 
 <!-- Languages and tools -->
 
@@ -58,9 +58,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=jesusgjara&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide=issues" alt="jesusgjara" />
   </div>
 
-  <div style="padding:10px ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusgjara&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jesusgjara" />
-  </div>
+ <!-- <div style="padding:10px ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusgjara&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jesusgjara" /> 
+ </div> --> 
 
 </div>
 
