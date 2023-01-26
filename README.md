@@ -1,4 +1,6 @@
-<img align="center" src="https://i.ibb.co/cbq0Rys/Jesus-G-Jara.png" alt="jesugjara"/>
+<div align="center">
+<img style="width:100%;" src="https://i.ibb.co/cbq0Rys/Jesus-G-Jara.png" alt="jesugjara"/>
+</div>
 
 <h1 style="padding:15px 0" align="center">Hi 👋, I'm Jesus</h1>
 <!-- <h3 style="padding-bottom:10px" align="center">Full-stack Web Developer.</h3> -->
